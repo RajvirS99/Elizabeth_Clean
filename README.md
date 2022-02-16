@@ -7,7 +7,7 @@
 ``` cd PROJECT_FOLDER ```
 
 3. Login into the shopify store using the below command
-``` shopify login --store STORE_LINK ```
+``` shopify login --store STORE_LINK ```<br/>
 **Accepted store links are -**
 ``` 
 Store-prefix - johns-apparel
